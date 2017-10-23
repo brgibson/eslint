@@ -13,6 +13,7 @@
 **Tell us about your environment**
 
 * **ESLint Version:**
+* **ESLint installed:** local/global
 * **Node Version:**
 * **npm Version:**
 
